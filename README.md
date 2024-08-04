@@ -1,8 +1,13 @@
 Name: HARSHINI S S
+
 Company: CODTECH IT SOLUTIONS
+
 ID: CT08DS4049
+
 Domain: Cybersecurity & Ethical Hacking
+
 Duration: July to August 2024
+
 Mentor: NEELA SANTHOSH KUMAR
 
 Overview of the Project
