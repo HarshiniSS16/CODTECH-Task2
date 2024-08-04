@@ -53,6 +53,11 @@ The provided Java code demonstrates a basic network port scanner. This tool scan
        
    - Completion Message: Prints a message indicating the scan is complete.
 
+OUTPUT:
+
+![WhatsApp Image 2024-08-04 at 20 53 09_6b3f0578](https://github.com/user-attachments/assets/db7f30bd-183b-4109-bf22-11d2840d3f8a)
+
+
 
       
 
